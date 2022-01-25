@@ -2,7 +2,6 @@
 @import "rouge-github";
 @import "variables";
 @import url('../css/switzer.css');
-@import url('../css/satoshi.css');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
 @mixin large {
@@ -31,7 +30,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: Switzer-Light, Satoshi-Light, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Switzer-Light, "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   color: $body-text-color;
