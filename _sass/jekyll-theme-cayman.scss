@@ -1,6 +1,7 @@
 // @import "normalize";
 @import "rouge-github";
 @import "variables";
+@import url('custom.css');
 @import url('../css/switzer.css');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
@@ -475,4 +476,17 @@ $time-4: 1200s;
 
 .site-footer-credits {
   color: $blockquote-text-color;
+}
+
+// custom
+.evidence-graph-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  text-align:center; 
+  float:right;
+}
+
+.evidence-graph-container img {
+  width: 100%;
 }
