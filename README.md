@@ -30,22 +30,23 @@
 <!--  </div> -->
 <!-- </div> -->
 
+## Study population
+<!-- <div> -->
+<iframe scrolling="no" seamless="seamless" src="
+	https://lawlessgenomics.com/rsv2021lawless.github.io/pages/rsv_persist2022.html
+	"
+	style="border:none;" 
+	height=600
+	width="100"
+	></iframe>
+<!-- </div> -->
 
+## Evidence summary
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="
 	https://lawlessgenomics.com/rsv2021lawless.github.io/pages/gene_illustrate_rsv_detail.html
 	"
 	height="1000" 
 	width="95%"></iframe>
-
-## Study population
-<div class="evidence-graph-container">
-<iframe scrolling="no" style="border:none;" seamless="seamless" src="
-	https://lawlessgenomics.com/rsv2021lawless.github.io/pages/rsv_persist2022.html
-	"
-	height="500" 
-	width="100%"
-	></iframe>
-</div>
 
 # Software
 - R v4.1.0 was used for data preparation and analysis <http://www.r-project.org>.

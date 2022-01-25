@@ -479,7 +479,6 @@ $time-4: 1200s;
 
 // custom
 .evidence-graph-container {
-  display: flex;
   flex-wrap: wrap;
   width: 100%;
   text-align:center; 
@@ -488,4 +487,22 @@ $time-4: 1200s;
 
 .evidence-graph-container img {
   width: 100%;
+}
+
+.center {
+  // display: flex;
+	display: block;
+    margin-left: auto;
+	margin-right: auto;
+    width: 100%;
+}
+
+div, iframe {
+    width: 100%;
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    border-style:none;
 }
