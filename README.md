@@ -1,4 +1,9 @@
-# Supplementary project data
+# The updated webpage has moved:
+<https://lawlessgenomics.com/inspire2022lawless.github.io/>
+This URL will be removed by March 2022
+
+## Supplementary project data
+
 <https://lawlessgenomics.com/rsv2021lawless.github.io>
 
 * Pre-print <https://www.overleaf.com/project/61718a4e077acc3d20ee68f1>
